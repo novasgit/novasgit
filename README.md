@@ -22,16 +22,24 @@
 Here are some ideas to get you started:
 -->
 
+
+
 ### Hi there 👋  
 I'm Nova.
 A data analyst.
+
 
 - 🔭 I’m currently working on personal projects to build my skills and portfolio.
 - 🌱 I’m currently learning SQL and Pandas.
 - 🤙🏿 I’m looking to collaborate on open source projects.
 - 📫 You can reach me through any of my socials above.
 
+
+
 ---
+
+
+
 
 - ⚒ Languages & Tools
 <div>
