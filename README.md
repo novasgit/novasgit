@@ -32,7 +32,7 @@ A data analyst.
 - 🔭 I’m currently working on personal projects to build my skills and portfolio.
 - 🌱 I’m currently learning SQL and Pandas.
 - 🤙🏿 I’m looking to collaborate on open source projects.
-- 📫 You can reach me through any of my socials above.
+- 📫 You can reach me on email at novawaithaka@gmail.com
 
 
 
