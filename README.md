@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 ### Hi there 👋  
 I'm Nova.
-A data analyst.
+A data scientist with experience across Data Engineering, Business Intelligence & Analytics, and Predictive Modelling.
 
 
-- 🔭 I’m currently working on personal projects to build my skills and portfolio.
-- 🌱 I’m currently learning Data Science skills including statistics & SQL.
+- 🔭 I enjoy building data infrastructure and using data for problem solving.
+- 🌱 I enjoy learning skills across the data landscape from engineering to ML/AI.
 - 🤙🏿 I’m looking to collaborate on open source projects.
 - 📫 You can reach me on email at novawaithaka@gmail.com
 
