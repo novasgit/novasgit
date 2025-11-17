@@ -1,7 +1,7 @@
 
 <!--My socials-->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemNjbWcycnBxMDZjdWx3OXB1ZzJvMzRnMGVnbmk5NW9oNWRzMjhtYiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jpHFUF7i6LC3xOF8r9/giphy.webp" width="100"/>
 </div>
 
 <div id="badges" align="center">
